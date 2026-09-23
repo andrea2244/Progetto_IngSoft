@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# Database locale (ognuno ha il suo)
+data/
+*.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
