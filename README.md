@@ -39,7 +39,7 @@ docs/
 
 ## Divisione del lavoro
 
-| | Persona A: campi e colture | Persona B: simulazione e sensori | ANDREA: utenti, magazzino, vendite |
+| | Persona A: campi e colture | LIAM: simulazione e sensori | ANDREA: utenti, magazzino, vendite |
 |---|---|---|---|
 | Casi d'uso | piantare, gestire appezzamenti, raccogliere | avanzamento del tempo, meteo, irrigazione automatica | login/registrazione, magazzino, ordini e vendite |
 | Domain model | Campo, Coltura, fasi di crescita | Sensore, Centralina, OrologioSimulato | Utente, Ruolo, Prodotto, Ordine |
